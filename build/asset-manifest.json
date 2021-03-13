@@ -1,9 +1,14 @@
 {
-  "main.css": "static/css/main.fcdde16f.css",
-  "main.css.map": "static/css/main.fcdde16f.css.map",
-  "main.js": "static/js/main.6524ac39.js",
-  "main.js.map": "static/js/main.6524ac39.js.map",
+  "main.css": "static/css/main.589c344d.css",
+  "main.css.map": "static/css/main.589c344d.css.map",
+  "main.js": "static/js/main.795aa4b3.js",
+  "main.js.map": "static/js/main.795aa4b3.js.map",
+  "static\\media\\DataBase.jpg": "static/media/DataBase.ae0ce109.jpg",
+  "static\\media\\Design.jpg": "static/media/Design.e125344f.jpg",
+  "static\\media\\Management.jpg": "static/media/Management.cd792d62.jpg",
   "static\\media\\PostgresSQL.jpg": "static/media/PostgresSQL.d81bdfb3.jpg",
+  "static\\media\\ProgrammingJava.jpg": "static/media/ProgrammingJava.4c2f4d46.jpg",
+  "static\\media\\SocialMediaApps.jpg": "static/media/SocialMediaApps.fd5eecd1.jpg",
   "static\\media\\course.svg": "static/media/course.6e7be65f.svg",
   "static\\media\\google-logo.png": "static/media/google-logo.36158af3.png"
 }
